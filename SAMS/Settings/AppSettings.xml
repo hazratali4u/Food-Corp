@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+
+  <!--<Server>DESKTOP-7DQDCQD</Server>
+  <DBName>SAMS-FC</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>Fast1234</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>-->
+
+  <Server>sams.faastdemo.com</Server>
+  <DBName>FoodCorpTest</DBName>
+  <DBUser>Builds</DBUser>
+  <DBPassword>PakistanisLove</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>
+
+
+</AppSettings>
